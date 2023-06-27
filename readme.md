@@ -1,3 +1,3 @@
 # home
 
-<a href = "https://github.com/Isaac-Lima/Calculadoras-Dia-a-Dia/blob/main/home.html"><a\>
+<a href = "http://127.0.0.1:5500/home.html"><a\>
